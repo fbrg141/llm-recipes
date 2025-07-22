@@ -87,4 +87,4 @@ The summary should enable a reader to:
 - Balance technical accuracy with readability
 - Include the paper's title, authors, and publication venue at the top
 
-Begin your summary now, following this structure and ensuring the content serves as an effective learning resource for understanding the research paper.
+ Following this structure write Notion page and ensuring the content serves as an effective learning resource for understanding the research paper.
